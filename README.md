@@ -9,7 +9,7 @@ Lecture Notes supplement for a unit of the course PHY 311 (Numerical Methods in 
 
 Presentation for a unit on Computer Arithmetic, part of the course PHY 311 (Numerical Methods in Physics).
 
-**Python Beginner’s interactive tutorial**
+**An introduction to Python: A Python Beginner’s interactive tutorial**
 
 A Jupyter notebook which contains executable and mutable python code which help a beginner get accustomed to python. *A work in progress.
 
